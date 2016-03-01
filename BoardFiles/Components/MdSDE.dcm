@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPST_x3
+D Interrupteur simple
+K switch
+$ENDCMP
+#
+#End Doc Library
