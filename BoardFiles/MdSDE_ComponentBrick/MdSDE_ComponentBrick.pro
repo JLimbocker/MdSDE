@@ -1,6 +1,6 @@
-update=Tuesday, March 01, 2016 'PMt' 04:05:28 PM
+update=3/16/2016 10:21:32 PM
 version=1
-last_client=kicad
+last_client=eeschema
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=../Components
+LibDir=../Components;../Footprints
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -57,5 +59,3 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=MdSDE
-[general]
-version=1
