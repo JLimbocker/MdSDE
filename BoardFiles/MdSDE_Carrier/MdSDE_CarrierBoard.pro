@@ -1,4 +1,4 @@
-update=3/17/2016 7:43:14 PM
+update=3/20/2016 4:00:37 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,14 +20,9 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=../Components
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,4 +53,9 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=MdSDE
+LibName30=C:/Users/Jeff/Documents/GitHub/MdSDE/BoardFiles/Components/MdSDE
+[cvpcb]
+version=1
+NetIExt=net
+[general]
+version=1
