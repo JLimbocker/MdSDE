@@ -1,0 +1,11 @@
+Qty,partname,description,lib
+0,"CONN_01X03","Connector 01x03","conn"
+0,"CONN_01X06","Connector 01x06","conn"
+0,"CONN_01X08","Connector 01x08","conn"
+0,"CP1_Small","Polarised capacitor","device"
+0,"C_Small","Unpolarized capacitor","device"
+0,"D","Diode","device"
+0,"INA213","Current Shunt Monitor","MdSDE"
+0,"REF3318","","MdSDE"
+0,"R_Small","Resistor","device"
+0,"Socket_DIP14","Connector 02x07","MdSDE"

@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CD74HC4051
+D 1:8 Digital/Analog MUX/DEMUX
+K MUX, DEMUX, Multiplexer, Demultiplexer
+$ENDCMP
+#
 $CMP INA213
 D Current Shunt Monitor
 K Current, Sense, Monitor, Shunt

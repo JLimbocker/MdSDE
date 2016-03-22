@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/Jeff/Documents/GitHub/MdSDE/BoardFiles/MdSDE_Carrier/MdSDE_CarrierBoard.sch</source>
+    <date>3/21/2016 7:52:42 PM</date>
+    <tool>Eeschema 4.0.0-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MdSDE_CarrierBoard.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Carrier1/" tstamps="/56EDC2E9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Carrier2/" tstamps="/56EDC2F9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Carrier3/" tstamps="/56EDC309/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Carrier4/" tstamps="/56EDC319/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Carrier5/" tstamps="/56EEB8B8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Carrier6/" tstamps="/56EEB8C8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Carrier7/" tstamps="/56EEB8D8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Carrier8/" tstamps="/56EEB8E8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>driverCarrier.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C101">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF09B6</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF0C8A</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF0F62</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF1227</tstamp>
+    </comp>
+    <comp ref="C105">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF14EB</tstamp>
+    </comp>
+    <comp ref="C106">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF17B9</tstamp>
+    </comp>
+    <comp ref="C107">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF1A87</tstamp>
+    </comp>
+    <comp ref="C108">
+      <value>CP1_Small</value>
+      <footprint>Capacitors_ThroughHole:C_Radial_D5_L6_P2.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EF1D54</tstamp>
+    </comp>
+    <comp ref="P112">
+      <value>CONN_01X08</value>
+      <footprint>Footprints:Phoenix_FFKDS_V-25,4-8</footprint>
+      <libsource lib="conn" part="CONN_01X08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EE2370</tstamp>
+    </comp>
+    <comp ref="P111">
+      <value>CONN_01X08</value>
+      <footprint>Footprints:Phoenix_FFKDS_V-25,4-8</footprint>
+      <libsource lib="conn" part="CONN_01X08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EE2676</tstamp>
+    </comp>
+    <comp ref="P110">
+      <value>CONN_01X08</value>
+      <footprint>Footprints:Phoenix_FFKDS_V-25,4-8</footprint>
+      <libsource lib="conn" part="CONN_01X08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EE296E</tstamp>
+    </comp>
+    <comp ref="P109">
+      <value>CONN_01X08</value>
+      <footprint>Footprints:Phoenix_FFKDS_V-25,4-8</footprint>
+      <libsource lib="conn" part="CONN_01X08"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EE2C69</tstamp>
+    </comp>
+    <comp ref="P101">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFA309</tstamp>
+    </comp>
+    <comp ref="P103">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFAD4D</tstamp>
+    </comp>
+    <comp ref="P102">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFB079</tstamp>
+    </comp>
+    <comp ref="P104">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFB384</tstamp>
+    </comp>
+    <comp ref="P105">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFB6B6</tstamp>
+    </comp>
+    <comp ref="P106">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFEAAD</tstamp>
+    </comp>
+    <comp ref="P107">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFFA19</tstamp>
+    </comp>
+    <comp ref="P108">
+      <value>CONN_01X06</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x06</footprint>
+      <libsource lib="conn" part="CONN_01X06"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56EFFD32</tstamp>
+    </comp>
+    <comp ref="P113">
+      <value>CONN_01X03</value>
+      <footprint>Connect:PINHEAD1-3</footprint>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56F0F02E</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U204">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U202">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U203">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C202">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R204">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D202">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C201">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R203">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P201">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier1/" tstamps="/56EDC2E9/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+    <comp ref="R301">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R302">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U304">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U302">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U303">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C302">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R304">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D302">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C301">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R303">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D301">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P301">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier2/" tstamps="/56EDC2F9/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+    <comp ref="R401">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R402">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U404">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U402">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U403">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C402">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R404">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D402">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C401">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R403">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D401">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P401">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier3/" tstamps="/56EDC309/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+    <comp ref="R501">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R502">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U504">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U502">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U503">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C502">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R504">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D502">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C501">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R503">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D501">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P501">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier4/" tstamps="/56EDC319/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+    <comp ref="R601">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R602">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U604">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U602">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U603">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C602">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R604">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D602">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C601">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R603">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D601">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P601">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier5/" tstamps="/56EEB8B8/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+    <comp ref="R701">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R702">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U704">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U702">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U703">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C702">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R704">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D702">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C701">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R703">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D701">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P701">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier6/" tstamps="/56EEB8C8/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+    <comp ref="R801">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R802">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U804">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U802">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U803">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C802">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R804">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D802">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C801">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R803">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D801">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P801">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier7/" tstamps="/56EEB8D8/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+    <comp ref="R901">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56ED4247</tstamp>
+    </comp>
+    <comp ref="R902">
+      <value>R_Small</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56ED42A5</tstamp>
+    </comp>
+    <comp ref="U904">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56ED4395</tstamp>
+    </comp>
+    <comp ref="U902">
+      <value>REF3318</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="REF3318"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56ED46ED</tstamp>
+    </comp>
+    <comp ref="U903">
+      <value>INA213</value>
+      <footprint>TO_SOT_Packages_SMD:SC-70-6_Handsoldering</footprint>
+      <libsource lib="MdSDE" part="INA213"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56ED81D9</tstamp>
+    </comp>
+    <comp ref="C902">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56F1BB2C</tstamp>
+    </comp>
+    <comp ref="R904">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56F1BB63</tstamp>
+    </comp>
+    <comp ref="D902">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56F1BBC1</tstamp>
+    </comp>
+    <comp ref="C901">
+      <value>0.1u</value>
+      <footprint>Capacitors_ThroughHole:C_Disc_D3_P2.5</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56F1C03E</tstamp>
+    </comp>
+    <comp ref="R903">
+      <value>2k</value>
+      <footprint>Resistors_SMD:R_1206_HandSoldering</footprint>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56F1C044</tstamp>
+    </comp>
+    <comp ref="D901">
+      <value>D</value>
+      <footprint>Diodes_SMD:SOD-323</footprint>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56F1C04A</tstamp>
+    </comp>
+    <comp ref="P901">
+      <value>Socket_DIP14</value>
+      <footprint>Housings_DIP:DIP-14_W7.62mm</footprint>
+      <libsource lib="MdSDE" part="Socket_DIP14"/>
+      <sheetpath names="/Carrier8/" tstamps="/56EEB8E8/"/>
+      <tstamp>56EDECDC</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="CONN_01X03">
+      <description>Connector 01x03</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X03</fp>
+        <fp>Pin_Header_Angled_1X03</fp>
+        <fp>Socket_Strip_Straight_1X03</fp>
+        <fp>Socket_Strip_Angled_1X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X06">
+      <description>Connector 01x06</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X06</fp>
+        <fp>Pin_Header_Angled_1X06</fp>
+        <fp>Socket_Strip_Straight_1X06</fp>
+        <fp>Socket_Strip_Angled_1X06</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X06</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_01X08">
+      <description>Connector 01x08</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X08</fp>
+        <fp>Pin_Header_Angled_1X08</fp>
+        <fp>Socket_Strip_Straight_1X08</fp>
+        <fp>Socket_Strip_Angled_1X08</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP1_Small">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MdSDE" part="INA213">
+      <description>Current Shunt Monitor</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INA213</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Ref" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="V+" type="input"/>
+        <pin num="4" name="IN+" type="input"/>
+        <pin num="5" name="IN-" type="input"/>
+        <pin num="6" name="OUT" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MdSDE" part="REF3318">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">REF3318</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="OUT" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R_Small">
+      <description>Resistor</description>
+      <footprints>
+        <fp>Resistor_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MdSDE" part="Socket_DIP14">
+      <description>Connector 02x07</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X07</fp>
+        <fp>Pin_Header_Angled_2X07</fp>
+        <fp>Socket_Strip_Straight_2X07</fp>
+        <fp>Socket_Strip_Angled_2X07</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">Socket_DIP14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+    <library logical="MdSDE">
+      <uri>C:\Users\Jeff\Documents\GitHub\MdSDE\BoardFiles\Components\MdSDE.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="M11_PH">
+      <node ref="P701" pin="4"/>
+      <node ref="P106" pin="3"/>
+    </net>
+    <net code="2" name="M9_PH">
+      <node ref="P105" pin="3"/>
+      <node ref="P601" pin="4"/>
+    </net>
+    <net code="3" name="M9_EN">
+      <node ref="P105" pin="2"/>
+      <node ref="P601" pin="3"/>
+    </net>
+    <net code="4" name="M10_EN">
+      <node ref="P601" pin="5"/>
+      <node ref="P105" pin="4"/>
+    </net>
+    <net code="5" name="M10_PH">
+      <node ref="P601" pin="6"/>
+      <node ref="P105" pin="5"/>
+    </net>
+    <net code="6" name="M11_EN">
+      <node ref="P701" pin="3"/>
+      <node ref="P106" pin="2"/>
+    </net>
+    <net code="7" name="M12_EN">
+      <node ref="P701" pin="5"/>
+      <node ref="P106" pin="4"/>
+    </net>
+    <net code="8" name="M12_PH">
+      <node ref="P106" pin="5"/>
+      <node ref="P701" pin="6"/>
+    </net>
+    <net code="9" name="M13_EN">
+      <node ref="P107" pin="2"/>
+      <node ref="P801" pin="3"/>
+    </net>
+    <net code="10" name="M13_PH">
+      <node ref="P107" pin="3"/>
+      <node ref="P801" pin="4"/>
+    </net>
+    <net code="11" name="M14_EN">
+      <node ref="P107" pin="4"/>
+      <node ref="P801" pin="5"/>
+    </net>
+    <net code="12" name="M7_PH">
+      <node ref="P501" pin="4"/>
+      <node ref="P104" pin="3"/>
+    </net>
+    <net code="13" name="M5_PH">
+      <node ref="P401" pin="4"/>
+      <node ref="P103" pin="3"/>
+    </net>
+    <net code="14" name="M5_EN">
+      <node ref="P401" pin="3"/>
+      <node ref="P103" pin="2"/>
+    </net>
+    <net code="15" name="M6_EN">
+      <node ref="P103" pin="4"/>
+      <node ref="P401" pin="5"/>
+    </net>
+    <net code="16" name="M6_PH">
+      <node ref="P401" pin="6"/>
+      <node ref="P103" pin="5"/>
+    </net>
+    <net code="17" name="M7_EN">
+      <node ref="P104" pin="2"/>
+      <node ref="P501" pin="3"/>
+    </net>
+    <net code="18" name="M14_PH">
+      <node ref="P801" pin="6"/>
+      <node ref="P107" pin="5"/>
+    </net>
+    <net code="19" name="M8_EN">
+      <node ref="P501" pin="5"/>
+      <node ref="P104" pin="4"/>
+    </net>
+    <net code="20" name="M8_PH">
+      <node ref="P104" pin="5"/>
+      <node ref="P501" pin="6"/>
+    </net>
+    <net code="21" name="M6+">
+      <node ref="P111" pin="6"/>
+      <node ref="R402" pin="1"/>
+      <node ref="U403" pin="4"/>
+    </net>
+    <net code="22" name="M3+">
+      <node ref="U304" pin="4"/>
+      <node ref="R301" pin="1"/>
+      <node ref="P110" pin="8"/>
+    </net>
+    <net code="23" name="M3-">
+      <node ref="P110" pin="7"/>
+      <node ref="P301" pin="11"/>
+    </net>
+    <net code="24" name="M4+">
+      <node ref="P110" pin="6"/>
+      <node ref="R302" pin="1"/>
+      <node ref="U303" pin="4"/>
+    </net>
+    <net code="25" name="M4-">
+      <node ref="P110" pin="5"/>
+      <node ref="P301" pin="9"/>
+    </net>
+    <net code="26" name="M5+">
+      <node ref="P111" pin="8"/>
+      <node ref="U404" pin="4"/>
+      <node ref="R401" pin="1"/>
+    </net>
+    <net code="27" name="M5-">
+      <node ref="P401" pin="11"/>
+      <node ref="P111" pin="7"/>
+    </net>
+    <net code="28" name="M6-">
+      <node ref="P401" pin="9"/>
+      <node ref="P111" pin="5"/>
+    </net>
+    <net code="29" name="M7+">
+      <node ref="R501" pin="1"/>
+      <node ref="U504" pin="4"/>
+      <node ref="P112" pin="8"/>
+    </net>
+    <net code="30" name="M7-">
+      <node ref="P501" pin="11"/>
+      <node ref="P112" pin="7"/>
+    </net>
+    <net code="31" name="M8+">
+      <node ref="P112" pin="6"/>
+      <node ref="R502" pin="1"/>
+      <node ref="U503" pin="4"/>
+    </net>
+    <net code="32" name="M16_PH">
+      <node ref="P108" pin="5"/>
+      <node ref="P901" pin="6"/>
+    </net>
+    <net code="33" name="M15_EN">
+      <node ref="P108" pin="2"/>
+      <node ref="P901" pin="3"/>
+    </net>
+    <net code="34" name="M15_PH">
+      <node ref="P108" pin="3"/>
+      <node ref="P901" pin="4"/>
+    </net>
+    <net code="35" name="M16_EN">
+      <node ref="P901" pin="5"/>
+      <node ref="P108" pin="4"/>
+    </net>
+    <net code="36" name="M1+">
+      <node ref="R201" pin="1"/>
+      <node ref="U204" pin="4"/>
+      <node ref="P109" pin="8"/>
+    </net>
+    <net code="37" name="M1-">
+      <node ref="P109" pin="7"/>
+      <node ref="P201" pin="11"/>
+    </net>
+    <net code="38" name="M2+">
+      <node ref="P109" pin="6"/>
+      <node ref="R202" pin="1"/>
+      <node ref="U203" pin="4"/>
+    </net>
+    <net code="39" name="M2-">
+      <node ref="P109" pin="5"/>
+      <node ref="P201" pin="9"/>
+    </net>
+    <net code="40" name="GND">
+      <node ref="P201" pin="14"/>
+      <node ref="U604" pin="2"/>
+      <node ref="P201" pin="1"/>
+      <node ref="R904" pin="2"/>
+      <node ref="U304" pin="2"/>
+      <node ref="P301" pin="14"/>
+      <node ref="U603" pin="2"/>
+      <node ref="U602" pin="3"/>
+      <node ref="U804" pin="2"/>
+      <node ref="C902" pin="2"/>
+      <node ref="C301" pin="2"/>
+      <node ref="U202" pin="3"/>
+      <node ref="R303" pin="2"/>
+      <node ref="U203" pin="2"/>
+      <node ref="U803" pin="2"/>
+      <node ref="R204" pin="2"/>
+      <node ref="U802" pin="3"/>
+      <node ref="P301" pin="1"/>
+      <node ref="R903" pin="2"/>
+      <node ref="R304" pin="2"/>
+      <node ref="C901" pin="2"/>
+      <node ref="C302" pin="2"/>
+      <node ref="U204" pin="2"/>
+      <node ref="P701" pin="1"/>
+      <node ref="U503" pin="2"/>
+      <node ref="U502" pin="3"/>
+      <node ref="P701" pin="14"/>
+      <node ref="U402" pin="3"/>
+      <node ref="U403" pin="2"/>
+      <node ref="U703" pin="2"/>
+      <node ref="R803" pin="2"/>
+      <node ref="U404" pin="2"/>
+      <node ref="R704" pin="2"/>
+      <node ref="C502" pin="2"/>
+      <node ref="R504" pin="2"/>
+      <node ref="P501" pin="1"/>
+      <node ref="U704" pin="2"/>
+      <node ref="P501" pin="14"/>
+      <node ref="U702" pin="3"/>
+      <node ref="C801" pin="2"/>
+      <node ref="U504" pin="2"/>
+      <node ref="C501" pin="2"/>
+      <node ref="R503" pin="2"/>
+      <node ref="R703" pin="2"/>
+      <node ref="C701" pin="2"/>
+      <node ref="P601" pin="14"/>
+      <node ref="R804" pin="2"/>
+      <node ref="C401" pin="2"/>
+      <node ref="R403" pin="2"/>
+      <node ref="U302" pin="3"/>
+      <node ref="C402" pin="2"/>
+      <node ref="P801" pin="14"/>
+      <node ref="U303" pin="2"/>
+      <node ref="P801" pin="1"/>
+      <node ref="C602" pin="2"/>
+      <node ref="P401" pin="14"/>
+      <node ref="C601" pin="2"/>
+      <node ref="R603" pin="2"/>
+      <node ref="P601" pin="1"/>
+      <node ref="R404" pin="2"/>
+      <node ref="R604" pin="2"/>
+      <node ref="C802" pin="2"/>
+      <node ref="P401" pin="1"/>
+      <node ref="C702" pin="2"/>
+      <node ref="P113" pin="2"/>
+      <node ref="U902" pin="3"/>
+      <node ref="P901" pin="14"/>
+      <node ref="U904" pin="2"/>
+      <node ref="P901" pin="1"/>
+      <node ref="C108" pin="2"/>
+      <node ref="R203" pin="2"/>
+      <node ref="U903" pin="2"/>
+      <node ref="C201" pin="2"/>
+      <node ref="C102" pin="2"/>
+      <node ref="C103" pin="2"/>
+      <node ref="C104" pin="2"/>
+      <node ref="C105" pin="2"/>
+      <node ref="C106" pin="2"/>
+      <node ref="C101" pin="2"/>
+      <node ref="C107" pin="2"/>
+      <node ref="C202" pin="2"/>
+    </net>
+    <net code="41" name="M2_EN">
+      <node ref="P201" pin="5"/>
+      <node ref="P101" pin="4"/>
+    </net>
+    <net code="42" name="M1_EN">
+      <node ref="P201" pin="3"/>
+      <node ref="P101" pin="2"/>
+    </net>
+    <net code="43" name="M1_PH">
+      <node ref="P101" pin="3"/>
+      <node ref="P201" pin="4"/>
+    </net>
+    <net code="44" name="M2_PH">
+      <node ref="P201" pin="6"/>
+      <node ref="P101" pin="5"/>
+    </net>
+    <net code="45" name="M3_EN">
+      <node ref="P301" pin="3"/>
+      <node ref="P102" pin="2"/>
+    </net>
+    <net code="46" name="M3_PH">
+      <node ref="P301" pin="4"/>
+      <node ref="P102" pin="3"/>
+    </net>
+    <net code="47" name="M4_EN">
+      <node ref="P102" pin="4"/>
+      <node ref="P301" pin="5"/>
+    </net>
+    <net code="48" name="M4_PH">
+      <node ref="P102" pin="5"/>
+      <node ref="P301" pin="6"/>
+    </net>
+    <net code="49" name="M13_Sense">
+      <node ref="C802" pin="1"/>
+      <node ref="D802" pin="1"/>
+      <node ref="P107" pin="1"/>
+      <node ref="R804" pin="1"/>
+    </net>
+    <net code="50" name="M14_Sense">
+      <node ref="P107" pin="6"/>
+      <node ref="D801" pin="1"/>
+      <node ref="R803" pin="1"/>
+      <node ref="C801" pin="1"/>
+    </net>
+    <net code="51" name="M15_Sense">
+      <node ref="P108" pin="1"/>
+      <node ref="C902" pin="1"/>
+      <node ref="D902" pin="1"/>
+      <node ref="R904" pin="1"/>
+    </net>
+    <net code="52" name="M16_Sense">
+      <node ref="C901" pin="1"/>
+      <node ref="R903" pin="1"/>
+      <node ref="D901" pin="1"/>
+      <node ref="P108" pin="6"/>
+    </net>
+    <net code="53" name="M1_Sense">
+      <node ref="R204" pin="1"/>
+      <node ref="P101" pin="1"/>
+      <node ref="D202" pin="1"/>
+      <node ref="C202" pin="1"/>
+    </net>
+    <net code="54" name="M2_Sense">
+      <node ref="P101" pin="6"/>
+      <node ref="D201" pin="1"/>
+      <node ref="C201" pin="1"/>
+      <node ref="R203" pin="1"/>
+    </net>
+    <net code="55" name="M3_Sense">
+      <node ref="D302" pin="1"/>
+      <node ref="P102" pin="1"/>
+      <node ref="R304" pin="1"/>
+      <node ref="C302" pin="1"/>
+    </net>
+    <net code="56" name="M5_Sense">
+      <node ref="P103" pin="1"/>
+      <node ref="D402" pin="1"/>
+      <node ref="R404" pin="1"/>
+      <node ref="C402" pin="1"/>
+    </net>
+    <net code="57" name="M6_Sense">
+      <node ref="P103" pin="6"/>
+      <node ref="C401" pin="1"/>
+      <node ref="R403" pin="1"/>
+      <node ref="D401" pin="1"/>
+    </net>
+    <net code="58" name="M4_Sense">
+      <node ref="P102" pin="6"/>
+      <node ref="D301" pin="1"/>
+      <node ref="C301" pin="1"/>
+      <node ref="R303" pin="1"/>
+    </net>
+    <net code="59" name="M7_Sense">
+      <node ref="P104" pin="1"/>
+      <node ref="C502" pin="1"/>
+      <node ref="D502" pin="1"/>
+      <node ref="R504" pin="1"/>
+    </net>
+    <net code="60" name="M8_Sense">
+      <node ref="P104" pin="6"/>
+      <node ref="C501" pin="1"/>
+      <node ref="R503" pin="1"/>
+      <node ref="D501" pin="1"/>
+    </net>
+    <net code="61" name="M9_Sense">
+      <node ref="D602" pin="1"/>
+      <node ref="R604" pin="1"/>
+      <node ref="P105" pin="1"/>
+      <node ref="C602" pin="1"/>
+    </net>
+    <net code="62" name="M10_Sense">
+      <node ref="P105" pin="6"/>
+      <node ref="R603" pin="1"/>
+      <node ref="C601" pin="1"/>
+      <node ref="D601" pin="1"/>
+    </net>
+    <net code="63" name="M11_Sense">
+      <node ref="P106" pin="1"/>
+      <node ref="D702" pin="1"/>
+      <node ref="R704" pin="1"/>
+      <node ref="C702" pin="1"/>
+    </net>
+    <net code="64" name="M12_Sense">
+      <node ref="R703" pin="1"/>
+      <node ref="C701" pin="1"/>
+      <node ref="P106" pin="6"/>
+      <node ref="D701" pin="1"/>
+    </net>
+    <net code="65" name="M16-">
+      <node ref="P112" pin="3"/>
+      <node ref="P901" pin="9"/>
+    </net>
+    <net code="66" name="M13-">
+      <node ref="P801" pin="11"/>
+      <node ref="P111" pin="1"/>
+    </net>
+    <net code="67" name="M14+">
+      <node ref="P111" pin="4"/>
+      <node ref="U803" pin="4"/>
+      <node ref="R802" pin="1"/>
+    </net>
+    <net code="68" name="M14-">
+      <node ref="P111" pin="3"/>
+      <node ref="P801" pin="9"/>
+    </net>
+    <net code="69" name="M15+">
+      <node ref="R901" pin="1"/>
+      <node ref="P112" pin="2"/>
+      <node ref="U904" pin="4"/>
+    </net>
+    <net code="70" name="M15-">
+      <node ref="P901" pin="11"/>
+      <node ref="P112" pin="1"/>
+    </net>
+    <net code="71" name="M16+">
+      <node ref="U903" pin="4"/>
+      <node ref="P112" pin="4"/>
+      <node ref="R902" pin="1"/>
+    </net>
+    <net code="72" name="M13+">
+      <node ref="P111" pin="2"/>
+      <node ref="R801" pin="1"/>
+      <node ref="U804" pin="4"/>
+    </net>
+    <net code="73" name="M8-">
+      <node ref="P501" pin="9"/>
+      <node ref="P112" pin="5"/>
+    </net>
+    <net code="74" name="M11+">
+      <node ref="P110" pin="2"/>
+      <node ref="U704" pin="4"/>
+      <node ref="R701" pin="1"/>
+    </net>
+    <net code="75" name="M9+">
+      <node ref="U604" pin="4"/>
+      <node ref="P109" pin="2"/>
+      <node ref="R601" pin="1"/>
+    </net>
+    <net code="76" name="M9-">
+      <node ref="P109" pin="1"/>
+      <node ref="P601" pin="11"/>
+    </net>
+    <net code="77" name="M10+">
+      <node ref="P109" pin="4"/>
+      <node ref="U603" pin="4"/>
+      <node ref="R602" pin="1"/>
+    </net>
+    <net code="78" name="M10-">
+      <node ref="P109" pin="3"/>
+      <node ref="P601" pin="9"/>
+    </net>
+    <net code="79" name="M11-">
+      <node ref="P701" pin="11"/>
+      <node ref="P110" pin="1"/>
+    </net>
+    <net code="80" name="M12+">
+      <node ref="U703" pin="4"/>
+      <node ref="R702" pin="1"/>
+      <node ref="P110" pin="4"/>
+    </net>
+    <net code="81" name="M12-">
+      <node ref="P701" pin="9"/>
+      <node ref="P110" pin="3"/>
+    </net>
+    <net code="82" name="+3V3">
+      <node ref="U902" pin="1"/>
+      <node ref="P801" pin="2"/>
+      <node ref="U603" pin="3"/>
+      <node ref="U602" pin="1"/>
+      <node ref="U702" pin="1"/>
+      <node ref="U703" pin="3"/>
+      <node ref="U904" pin="3"/>
+      <node ref="P801" pin="7"/>
+      <node ref="P901" pin="2"/>
+      <node ref="P901" pin="7"/>
+      <node ref="U802" pin="1"/>
+      <node ref="U804" pin="3"/>
+      <node ref="U803" pin="3"/>
+      <node ref="U903" pin="3"/>
+      <node ref="P701" pin="2"/>
+      <node ref="P701" pin="7"/>
+      <node ref="U704" pin="3"/>
+      <node ref="U204" pin="3"/>
+      <node ref="P201" pin="7"/>
+      <node ref="U402" pin="1"/>
+      <node ref="U203" pin="3"/>
+      <node ref="U403" pin="3"/>
+      <node ref="P201" pin="2"/>
+      <node ref="P501" pin="7"/>
+      <node ref="P501" pin="2"/>
+      <node ref="P401" pin="2"/>
+      <node ref="U304" pin="3"/>
+      <node ref="P401" pin="7"/>
+      <node ref="U303" pin="3"/>
+      <node ref="U302" pin="1"/>
+      <node ref="U202" pin="1"/>
+      <node ref="P301" pin="2"/>
+      <node ref="P301" pin="7"/>
+      <node ref="U404" pin="3"/>
+      <node ref="U504" pin="3"/>
+      <node ref="U604" pin="3"/>
+      <node ref="U502" pin="1"/>
+      <node ref="P601" pin="2"/>
+      <node ref="P601" pin="7"/>
+      <node ref="P113" pin="3"/>
+      <node ref="U503" pin="3"/>
+    </net>
+    <net code="83" name="+5V">
+      <node ref="C103" pin="1"/>
+      <node ref="C102" pin="1"/>
+      <node ref="C101" pin="1"/>
+      <node ref="C108" pin="1"/>
+      <node ref="C106" pin="1"/>
+      <node ref="P801" pin="13"/>
+      <node ref="C105" pin="1"/>
+      <node ref="C104" pin="1"/>
+      <node ref="P301" pin="13"/>
+      <node ref="P201" pin="13"/>
+      <node ref="P901" pin="13"/>
+      <node ref="C107" pin="1"/>
+      <node ref="P113" pin="1"/>
+      <node ref="P401" pin="13"/>
+      <node ref="P501" pin="13"/>
+      <node ref="P601" pin="13"/>
+      <node ref="P701" pin="13"/>
+    </net>
+    <net code="84" name="Net-(D201-Pad2)">
+      <node ref="D201" pin="2"/>
+      <node ref="U203" pin="6"/>
+    </net>
+    <net code="85" name="/Carrier1/M2_Sense+">
+      <node ref="P201" pin="10"/>
+      <node ref="U203" pin="5"/>
+      <node ref="R202" pin="2"/>
+    </net>
+    <net code="86" name="Net-(P201-Pad8)">
+      <node ref="P201" pin="8"/>
+    </net>
+    <net code="87" name="Net-(U202-Pad2)">
+      <node ref="U204" pin="1"/>
+      <node ref="U203" pin="1"/>
+      <node ref="U202" pin="2"/>
+    </net>
+    <net code="88" name="/Carrier1/M1_Sense+">
+      <node ref="U204" pin="5"/>
+      <node ref="P201" pin="12"/>
+      <node ref="R201" pin="2"/>
+    </net>
+    <net code="89" name="Net-(D202-Pad2)">
+      <node ref="U204" pin="6"/>
+      <node ref="D202" pin="2"/>
+    </net>
+    <net code="90" name="Net-(D301-Pad2)">
+      <node ref="U303" pin="6"/>
+      <node ref="D301" pin="2"/>
+    </net>
+    <net code="91" name="/Carrier2/M2_Sense+">
+      <node ref="U303" pin="5"/>
+      <node ref="R302" pin="2"/>
+      <node ref="P301" pin="10"/>
+    </net>
+    <net code="92" name="Net-(P301-Pad8)">
+      <node ref="P301" pin="8"/>
+    </net>
+    <net code="93" name="Net-(U302-Pad2)">
+      <node ref="U304" pin="1"/>
+      <node ref="U303" pin="1"/>
+      <node ref="U302" pin="2"/>
+    </net>
+    <net code="94" name="Net-(D302-Pad2)">
+      <node ref="U304" pin="6"/>
+      <node ref="D302" pin="2"/>
+    </net>
+    <net code="95" name="/Carrier2/M1_Sense+">
+      <node ref="U304" pin="5"/>
+      <node ref="R301" pin="2"/>
+      <node ref="P301" pin="12"/>
+    </net>
+    <net code="96" name="Net-(D401-Pad2)">
+      <node ref="D401" pin="2"/>
+      <node ref="U403" pin="6"/>
+    </net>
+    <net code="97" name="/Carrier3/M2_Sense+">
+      <node ref="U403" pin="5"/>
+      <node ref="P401" pin="10"/>
+      <node ref="R402" pin="2"/>
+    </net>
+    <net code="98" name="Net-(P401-Pad8)">
+      <node ref="P401" pin="8"/>
+    </net>
+    <net code="99" name="Net-(U402-Pad2)">
+      <node ref="U404" pin="1"/>
+      <node ref="U403" pin="1"/>
+      <node ref="U402" pin="2"/>
+    </net>
+    <net code="100" name="Net-(D402-Pad2)">
+      <node ref="D402" pin="2"/>
+      <node ref="U404" pin="6"/>
+    </net>
+    <net code="101" name="/Carrier3/M1_Sense+">
+      <node ref="U404" pin="5"/>
+      <node ref="R401" pin="2"/>
+      <node ref="P401" pin="12"/>
+    </net>
+    <net code="102" name="Net-(D501-Pad2)">
+      <node ref="D501" pin="2"/>
+      <node ref="U503" pin="6"/>
+    </net>
+    <net code="103" name="/Carrier4/M2_Sense+">
+      <node ref="R502" pin="2"/>
+      <node ref="P501" pin="10"/>
+      <node ref="U503" pin="5"/>
+    </net>
+    <net code="104" name="Net-(D502-Pad2)">
+      <node ref="D502" pin="2"/>
+      <node ref="U504" pin="6"/>
+    </net>
+    <net code="105" name="Net-(P501-Pad8)">
+      <node ref="P501" pin="8"/>
+    </net>
+    <net code="106" name="Net-(U502-Pad2)">
+      <node ref="U502" pin="2"/>
+      <node ref="U503" pin="1"/>
+      <node ref="U504" pin="1"/>
+    </net>
+    <net code="107" name="/Carrier4/M1_Sense+">
+      <node ref="P501" pin="12"/>
+      <node ref="R501" pin="2"/>
+      <node ref="U504" pin="5"/>
+    </net>
+    <net code="108" name="Net-(D601-Pad2)">
+      <node ref="U603" pin="6"/>
+      <node ref="D601" pin="2"/>
+    </net>
+    <net code="109" name="/Carrier5/M2_Sense+">
+      <node ref="U603" pin="5"/>
+      <node ref="P601" pin="10"/>
+      <node ref="R602" pin="2"/>
+    </net>
+    <net code="110" name="Net-(P601-Pad8)">
+      <node ref="P601" pin="8"/>
+    </net>
+    <net code="111" name="Net-(U602-Pad2)">
+      <node ref="U603" pin="1"/>
+      <node ref="U604" pin="1"/>
+      <node ref="U602" pin="2"/>
+    </net>
+    <net code="112" name="Net-(D602-Pad2)">
+      <node ref="U604" pin="6"/>
+      <node ref="D602" pin="2"/>
+    </net>
+    <net code="113" name="/Carrier5/M1_Sense+">
+      <node ref="R601" pin="2"/>
+      <node ref="P601" pin="12"/>
+      <node ref="U604" pin="5"/>
+    </net>
+    <net code="114" name="Net-(D701-Pad2)">
+      <node ref="U703" pin="6"/>
+      <node ref="D701" pin="2"/>
+    </net>
+    <net code="115" name="/Carrier6/M2_Sense+">
+      <node ref="U703" pin="5"/>
+      <node ref="R702" pin="2"/>
+      <node ref="P701" pin="10"/>
+    </net>
+    <net code="116" name="Net-(P701-Pad8)">
+      <node ref="P701" pin="8"/>
+    </net>
+    <net code="117" name="Net-(U702-Pad2)">
+      <node ref="U702" pin="2"/>
+      <node ref="U704" pin="1"/>
+      <node ref="U703" pin="1"/>
+    </net>
+    <net code="118" name="Net-(D702-Pad2)">
+      <node ref="U704" pin="6"/>
+      <node ref="D702" pin="2"/>
+    </net>
+    <net code="119" name="/Carrier6/M1_Sense+">
+      <node ref="U704" pin="5"/>
+      <node ref="P701" pin="12"/>
+      <node ref="R701" pin="2"/>
+    </net>
+    <net code="120" name="Net-(D801-Pad2)">
+      <node ref="D801" pin="2"/>
+      <node ref="U803" pin="6"/>
+    </net>
+    <net code="121" name="/Carrier7/M2_Sense+">
+      <node ref="U803" pin="5"/>
+      <node ref="R802" pin="2"/>
+      <node ref="P801" pin="10"/>
+    </net>
+    <net code="122" name="Net-(P801-Pad8)">
+      <node ref="P801" pin="8"/>
+    </net>
+    <net code="123" name="Net-(U802-Pad2)">
+      <node ref="U802" pin="2"/>
+      <node ref="U804" pin="1"/>
+      <node ref="U803" pin="1"/>
+    </net>
+    <net code="124" name="Net-(D802-Pad2)">
+      <node ref="U804" pin="6"/>
+      <node ref="D802" pin="2"/>
+    </net>
+    <net code="125" name="/Carrier7/M1_Sense+">
+      <node ref="P801" pin="12"/>
+      <node ref="R801" pin="2"/>
+      <node ref="U804" pin="5"/>
+    </net>
+    <net code="126" name="Net-(D901-Pad2)">
+      <node ref="D901" pin="2"/>
+      <node ref="U903" pin="6"/>
+    </net>
+    <net code="127" name="/Carrier8/M2_Sense+">
+      <node ref="U903" pin="5"/>
+      <node ref="P901" pin="10"/>
+      <node ref="R902" pin="2"/>
+    </net>
+    <net code="128" name="Net-(P901-Pad8)">
+      <node ref="P901" pin="8"/>
+    </net>
+    <net code="129" name="Net-(U902-Pad2)">
+      <node ref="U902" pin="2"/>
+      <node ref="U904" pin="1"/>
+      <node ref="U903" pin="1"/>
+    </net>
+    <net code="130" name="/Carrier8/M1_Sense+">
+      <node ref="R901" pin="2"/>
+      <node ref="U904" pin="5"/>
+      <node ref="P901" pin="12"/>
+    </net>
+    <net code="131" name="Net-(D902-Pad2)">
+      <node ref="U904" pin="6"/>
+      <node ref="D902" pin="2"/>
+    </net>
+  </nets>
+</export>
